@@ -1,0 +1,27 @@
+# Credentials and secrets
+.credentials.json
+
+# History and cache (large/sensitive)
+history.jsonl
+cache/
+paste-cache/
+shell-snapshots/
+session-env/
+debug/
+file-history/
+statsig/
+telemetry/
+stats-cache.json
+
+# Project-specific data (may contain sensitive paths/info)
+projects/
+
+# Temporary data
+todos/
+plans/
+plugins/
+downloads/
+ide/
+
+# External skill repos (managed separately)
+skills/tauri/
