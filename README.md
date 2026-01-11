@@ -12,6 +12,7 @@ My global configuration for [Claude Code](https://docs.anthropic.com/en/docs/cla
 | `/test` | Do test-driven development |
 | `/web` | Append web search instruction to prompt |
 | `/testweb` | Combine test-driven development with web search |
+| `/debug` | Debug step by step, wait for feedback after each attempt, iterate until resolved |
 | `/double` | Double check it using web search |
 | `/doublecheck` | Alias for `/double` |
 | `/updatereadme` | Update README.md, browse repo and web search to verify accuracy |
