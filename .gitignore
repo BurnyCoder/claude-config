@@ -1,0 +1,31 @@
+# Sensitive files
+.credentials.json
+
+# Cache and temporary files
+cache/
+paste-cache/
+stats-cache.json
+statsig/
+file-history/
+shell-snapshots/
+
+# History and logs
+history.jsonl
+
+# IDE-specific
+ide/
+
+# Debug files
+debug/
+
+# Session data (project-specific)
+projects/
+
+# Task locks
+tasks/
+
+# Todo session files
+todos/
+
+# Embedded git repos
+plugins/marketplaces/
