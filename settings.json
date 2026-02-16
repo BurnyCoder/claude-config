@@ -7,6 +7,8 @@
   "permissions": {
     "allow": [
       "mcp__*",
+      "mcp__jupyter-mcp-server",
+      "mcp__ide",
       "Bash",
       "Edit",
       "Glob",

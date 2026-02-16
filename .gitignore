@@ -1,31 +1,33 @@
-# Sensitive files
+# Credentials and secrets
 .credentials.json
 
-# Cache and temporary files
+# History and cache (large/sensitive)
+history.jsonl
 cache/
 paste-cache/
-stats-cache.json
-statsig/
-file-history/
 shell-snapshots/
-
-# History and logs
-history.jsonl
+session-env/
+debug/
+file-history/
+statsig/
+telemetry/
+stats-cache.json
 
 # IDE-specific
 ide/
 
-# Debug files
-debug/
-
-# Session data (project-specific)
+# Project-specific data (may contain sensitive paths/info)
 projects/
 
-# Task locks
-tasks/
-
-# Todo session files
+# Temporary data
 todos/
+plans/
+plugins/
+downloads/
+tasks/
 
 # Embedded git repos
 plugins/marketplaces/
+
+# External skill repos (managed separately)
+skills/tauri/
