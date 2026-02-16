@@ -5,6 +5,14 @@
       "repo": "anthropics/claude-plugins-official"
     },
     "installLocation": "/home/burny/.claude/plugins/marketplaces/claude-plugins-official",
-    "lastUpdated": "2026-02-16T13:19:11.159Z"
+    "lastUpdated": "2026-02-16T13:40:39.328Z"
+  },
+  "ai-research-skills": {
+    "source": {
+      "source": "github",
+      "repo": "orchestra-research/AI-research-SKILLs"
+    },
+    "installLocation": "/home/burny/.claude/plugins/marketplaces/ai-research-skills",
+    "lastUpdated": "2026-02-16T13:33:06.846Z"
   }
 }

@@ -20,6 +20,296 @@
         "lastUpdated": "2026-01-26T06:18:19.598Z",
         "gitCommitSha": "e30768372b4150ca1bc0839d93283e8edc30d60d"
       }
+    ],
+    "github@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/github/2cd88e7947b7",
+        "version": "2cd88e7947b7",
+        "installedAt": "2026-02-16T13:34:56.399Z",
+        "lastUpdated": "2026-02-16T13:34:56.399Z",
+        "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
+      }
+    ],
+    "ralph-loop@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/ralph-loop/2cd88e7947b7",
+        "version": "2cd88e7947b7",
+        "installedAt": "2026-02-16T13:35:13.413Z",
+        "lastUpdated": "2026-02-16T13:35:13.413Z",
+        "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
+      }
+    ],
+    "playwright@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/playwright/2cd88e7947b7",
+        "version": "2cd88e7947b7",
+        "installedAt": "2026-02-16T13:35:24.350Z",
+        "lastUpdated": "2026-02-16T13:35:24.350Z",
+        "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
+      }
+    ],
+    "commit-commands@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/commit-commands/2cd88e7947b7",
+        "version": "2cd88e7947b7",
+        "installedAt": "2026-02-16T13:35:31.609Z",
+        "lastUpdated": "2026-02-16T13:35:31.609Z",
+        "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
+      }
+    ],
+    "agent-sdk-dev@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/agent-sdk-dev/2cd88e7947b7",
+        "version": "2cd88e7947b7",
+        "installedAt": "2026-02-16T13:36:01.389Z",
+        "lastUpdated": "2026-02-16T13:36:01.389Z",
+        "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
+      }
+    ],
+    "huggingface-skills@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/huggingface-skills/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-02-16T13:37:02.950Z",
+        "lastUpdated": "2026-02-16T13:37:02.950Z",
+        "gitCommitSha": "3f4f55d6264b7baddec94031eeda70780d7e9189"
+      }
+    ],
+    "agents@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/agents/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:37:24.776Z",
+        "lastUpdated": "2026-02-16T13:37:24.776Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "distributed-training@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/distributed-training/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:37:48.601Z",
+        "lastUpdated": "2026-02-16T13:37:48.601Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "data-processing@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/data-processing/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:08.323Z",
+        "lastUpdated": "2026-02-16T13:38:08.323Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "emerging-techniques@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/emerging-techniques/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:32.190Z",
+        "lastUpdated": "2026-02-16T13:38:32.190Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "evaluation@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/evaluation/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:32.437Z",
+        "lastUpdated": "2026-02-16T13:38:32.437Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "fine-tuning@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/fine-tuning/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:32.691Z",
+        "lastUpdated": "2026-02-16T13:38:32.691Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "inference-serving@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/inference-serving/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:32.938Z",
+        "lastUpdated": "2026-02-16T13:38:32.938Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "infrastructure@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/infrastructure/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:33.196Z",
+        "lastUpdated": "2026-02-16T13:38:33.196Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "mechanistic-interpretability@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/mechanistic-interpretability/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:33.441Z",
+        "lastUpdated": "2026-02-16T13:38:33.441Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "ml-paper-writing@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/ml-paper-writing/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:33.696Z",
+        "lastUpdated": "2026-02-16T13:38:33.696Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "mlops@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/mlops/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:33.941Z",
+        "lastUpdated": "2026-02-16T13:38:33.941Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "model-architecture@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/model-architecture/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:34.210Z",
+        "lastUpdated": "2026-02-16T13:38:34.210Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "multimodal@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/multimodal/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:34.461Z",
+        "lastUpdated": "2026-02-16T13:38:34.461Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "observability@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/observability/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:34.721Z",
+        "lastUpdated": "2026-02-16T13:38:34.721Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "optimization@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/optimization/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:34.971Z",
+        "lastUpdated": "2026-02-16T13:38:34.971Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "post-training@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/post-training/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:35.229Z",
+        "lastUpdated": "2026-02-16T13:38:35.229Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "prompt-engineering@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/prompt-engineering/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:35.485Z",
+        "lastUpdated": "2026-02-16T13:38:35.485Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "rag@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/rag/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:35.743Z",
+        "lastUpdated": "2026-02-16T13:38:35.743Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "safety-alignment@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/safety-alignment/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:35.999Z",
+        "lastUpdated": "2026-02-16T13:38:35.999Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "tokenization@ai-research-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/ai-research-skills/tokenization/a9375e3d37c5",
+        "version": "a9375e3d37c5",
+        "installedAt": "2026-02-16T13:38:36.240Z",
+        "lastUpdated": "2026-02-16T13:38:36.240Z",
+        "gitCommitSha": "a9375e3d37c51ac4995212961d8b52246a2d5a7e"
+      }
+    ],
+    "claude-md-management@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/claude-md-management/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-02-16T13:39:01.549Z",
+        "lastUpdated": "2026-02-16T13:39:01.549Z",
+        "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
+      }
+    ],
+    "greptile@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/greptile/2cd88e7947b7",
+        "version": "2cd88e7947b7",
+        "installedAt": "2026-02-16T13:39:31.992Z",
+        "lastUpdated": "2026-02-16T13:39:31.992Z",
+        "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
+      }
+    ],
+    "claude-code-setup@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/claude-code-setup/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-02-16T13:40:00.665Z",
+        "lastUpdated": "2026-02-16T13:40:00.665Z",
+        "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
+      }
     ]
   }
 }
