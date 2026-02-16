@@ -22,12 +22,13 @@ projects/
 # Temporary data
 todos/
 plans/
-plugins/
 downloads/
 tasks/
 
-# Embedded git repos
+# Plugins - track config, ignore cache/cloned repos
+plugins/cache/
 plugins/marketplaces/
+plugins/install-counts-cache.json
 
 # External skill repos (managed separately)
 skills/tauri/
