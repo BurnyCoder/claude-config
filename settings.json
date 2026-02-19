@@ -9,6 +9,8 @@
       "mcp__*",
       "mcp__jupyter-mcp-server",
       "mcp__ide",
+      "mcp__plugin_playwright_playwright__browser_navigate",
+      "mcp__plugin_playwright_playwright__browser_install",
       "Bash",
       "Edit",
       "Glob",
