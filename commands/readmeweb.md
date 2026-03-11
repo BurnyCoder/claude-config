@@ -1,1 +1,1 @@
-$ARGUMENTS Make sure @README.md is up to date and without hallucinations. Browse the repo and web search to double check everything.
+$ARGUMENTS Browse the entire codebase thoroughly. Update README.md to accurately reflect the current state of the project. Search the web to verify information and ensure nothing is hallucinated.

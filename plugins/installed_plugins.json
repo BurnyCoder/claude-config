@@ -24,60 +24,60 @@
     "github@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/github/8deab8460a9d",
-        "version": "8deab8460a9d",
+        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/github/bd041495bd2a",
+        "version": "bd041495bd2a",
         "installedAt": "2026-02-16T13:34:56.399Z",
-        "lastUpdated": "2026-02-19T11:29:08.845Z",
+        "lastUpdated": "2026-03-10T23:01:07.767Z",
         "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
       }
     ],
     "ralph-loop@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/ralph-loop/8deab8460a9d",
-        "version": "8deab8460a9d",
+        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/ralph-loop/bd041495bd2a",
+        "version": "bd041495bd2a",
         "installedAt": "2026-02-16T13:35:13.413Z",
-        "lastUpdated": "2026-02-19T11:29:08.874Z",
+        "lastUpdated": "2026-03-10T23:01:07.810Z",
         "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
       }
     ],
     "playwright@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/playwright/8deab8460a9d",
-        "version": "8deab8460a9d",
+        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/playwright/bd041495bd2a",
+        "version": "bd041495bd2a",
         "installedAt": "2026-02-16T13:35:24.350Z",
-        "lastUpdated": "2026-02-19T11:29:08.840Z",
+        "lastUpdated": "2026-03-10T23:01:07.761Z",
         "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
       }
     ],
     "commit-commands@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/commit-commands/8deab8460a9d",
-        "version": "8deab8460a9d",
+        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/commit-commands/bd041495bd2a",
+        "version": "bd041495bd2a",
         "installedAt": "2026-02-16T13:35:31.609Z",
-        "lastUpdated": "2026-02-19T11:29:08.860Z",
+        "lastUpdated": "2026-03-10T23:01:07.800Z",
         "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
       }
     ],
     "agent-sdk-dev@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/agent-sdk-dev/8deab8460a9d",
-        "version": "8deab8460a9d",
+        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/agent-sdk-dev/bd041495bd2a",
+        "version": "bd041495bd2a",
         "installedAt": "2026-02-16T13:36:01.389Z",
-        "lastUpdated": "2026-02-19T11:29:08.864Z",
+        "lastUpdated": "2026-03-10T23:01:07.804Z",
         "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
       }
     ],
     "huggingface-skills@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/huggingface-skills/1.0.0",
-        "version": "1.0.0",
+        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/huggingface-skills/1.0.1",
+        "version": "1.0.1",
         "installedAt": "2026-02-16T13:37:02.950Z",
-        "lastUpdated": "2026-02-16T13:37:02.950Z",
+        "lastUpdated": "2026-03-11T14:01:40.561Z",
         "gitCommitSha": "3f4f55d6264b7baddec94031eeda70780d7e9189"
       }
     ],
@@ -294,10 +294,10 @@
     "greptile@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/greptile/8deab8460a9d",
-        "version": "8deab8460a9d",
+        "installPath": "/home/burny/.claude/plugins/cache/claude-plugins-official/greptile/bd041495bd2a",
+        "version": "bd041495bd2a",
         "installedAt": "2026-02-16T13:39:31.992Z",
-        "lastUpdated": "2026-02-19T11:29:08.855Z",
+        "lastUpdated": "2026-03-10T23:01:07.779Z",
         "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
       }
     ],
